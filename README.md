@@ -2,7 +2,7 @@
 
 ### Contato:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/joao-pedro-pereira0805](https://www.linkedin.com/in/joao-pedro-pereira0805/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-pereira0805/)
 
 ### Tecnologias que utilizo:
 
